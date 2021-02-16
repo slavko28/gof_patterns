@@ -1,7 +1,6 @@
 package pattern.behavior.command;
 
 import org.junit.jupiter.api.Test;
-import pattern.bevavior.command.*;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

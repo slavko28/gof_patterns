@@ -1,10 +1,6 @@
 package pattern.behavior.state;
 
 import org.junit.jupiter.api.Test;
-import pattern.bevavior.state.DeliveredState;
-import pattern.bevavior.state.MyPackage;
-import pattern.bevavior.state.OrderedState;
-import pattern.bevavior.state.ReceivedState;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;

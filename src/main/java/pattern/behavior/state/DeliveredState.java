@@ -1,4 +1,4 @@
-package pattern.bevavior.state;
+package pattern.behavior.state;
 
 public class DeliveredState implements PackageState {
 
