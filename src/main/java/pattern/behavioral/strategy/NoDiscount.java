@@ -1,4 +1,4 @@
-package pattern.behavior.strategy;
+package pattern.behavioral.strategy;
 
 public class NoDiscount implements Discounter {
     @Override

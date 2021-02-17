@@ -1,4 +1,4 @@
-package pattern.behavior.strategy;
+package pattern.behavioral.strategy;
 
 import java.util.HashMap;
 import java.util.Map;

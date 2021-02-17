@@ -1,4 +1,4 @@
-package pattern.behavior.state;
+package pattern.behavioral.state;
 
 import org.junit.jupiter.api.Test;
 

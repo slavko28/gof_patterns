@@ -1,4 +1,4 @@
-package pattern.behavior.command;
+package pattern.behavioral.command;
 
 public interface Command {
 
