@@ -1,4 +1,4 @@
-package pattern.behavior.strategy;
+package pattern.behavioral.strategy;
 
 public class EasterDiscount implements Discounter {
     @Override

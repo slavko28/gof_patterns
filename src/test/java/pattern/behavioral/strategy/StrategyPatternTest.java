@@ -1,4 +1,4 @@
-package pattern.behavior.strategy;
+package pattern.behavioral.strategy;
 
 import org.junit.jupiter.api.Test;
 
